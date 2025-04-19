@@ -11,3 +11,8 @@ A company wants to build an *internal portal* for employees to access news, poli
 - Design a *SharePoint intranet homepage*  
 - Configure *user permissions* for different departments  
 
+- Create four SharePoint Sites for the following departments
+- Human Resource
+- Information Technology
+- Finance
+- Legal 
